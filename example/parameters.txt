@@ -1,0 +1,4 @@
+otufile	plugins/MT/example/asv_abund.norm.transpose.csv
+mapping	plugins/MT/example/asv_map.csv
+tree	plugins/MT/example/asv_tax.csv
+column	Description

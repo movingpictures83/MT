@@ -1,0 +1,2 @@
+Prefix plugins/MT/example
+Plugin MT inputfile parameters.txt outputfile MT.csv
